@@ -41,7 +41,7 @@ company only. To do so, on their forms, choose between:
 
 - *A blank field*: the record is shared within all companies.
 - *Adding a company*: the record is visible to users logged in to that specific company and its
-  child companies.
+  parent companies.
 
 .. image:: media/product_form_company.png
    :align: center
